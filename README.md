@@ -10,7 +10,7 @@ A free GUI tool to save and forward posts from Telegram channels which made thei
 - Live status & logs UI
 
 ## 🚀 Watch it on YouTube 🚀
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/erfan4lx)
+[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/Ig8gIfSBJFE)
 
 ## 🚀 Get it from our Website 🚀
 🌐 **Website:** [**https://erfan4lx.com/product/telegram-restricted-content-forwarder/**](https://erfan4lx.com/product/telegram-restricted-content-forwarder/) 
